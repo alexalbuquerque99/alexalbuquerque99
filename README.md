@@ -8,10 +8,10 @@ Estou sempre em busca de novos conhecimentos e desafios no mundo da tecnologia. 
 
 ## Minhas Habilidades
 
-- **HTML5 & CSS3**: Criando layouts responsivos e esteticamente agradáveis.
-- **JavaScript & React**: Desenvolvendo interfaces dinâmicas e interativas.
-- **Python & C#**: Automatizando tarefas e desenvolvendo soluções backend.
-- **.NET**: Construindo aplicações robustas e escaláveis.
+**HTML5 & CSS3: Especialista na criação de layouts modernos, responsivos e visualmente atrativos.
+**JavaScript & React: Desenvolvimento de interfaces de usuário dinâmicas, interativas e altamente funcionais.
+**Python: Automação de processos e criação de soluções backend eficientes.
+**C# & .NET: Desenvolvimento de aplicações robustas, escaláveis e focadas em alto desempenho.
 
 ## O que você vai encontrar aqui?
 
