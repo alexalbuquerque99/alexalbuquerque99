@@ -7,11 +7,10 @@ Sou **Alex Albuquerque**, estudante de **Análise e Desenvolvimento de Sistemas*
 Estou sempre em busca de novos conhecimentos e desafios no mundo da tecnologia. Minhas principais áreas de interesse incluem o desenvolvimento de interfaces amigáveis e intuitivas, e a criação de experiências digitais que encantem os usuários. Adoro transformar ideias em código funcional e explorar as últimas tendências em desenvolvimento web.
 
 ## Minhas Habilidades
-
-**HTML5 & CSS3: Especialista na criação de layouts modernos, responsivos e visualmente atrativos.
-**JavaScript & React: Desenvolvimento de interfaces de usuário dinâmicas, interativas e altamente funcionais.
-**Python: Automação de processos e criação de soluções backend eficientes.
-**C# & .NET: Desenvolvimento de aplicações robustas, escaláveis e focadas em alto desempenho.
+- HTML5 & CSS3: Especialista na criação de layouts modernos, responsivos e visualmente atrativos.
+- JavaScript & React Js: Desenvolvimento de interfaces de usuário dinâmicas, interativas e altamente funcionais.
+- Python & Django: Automação de processos e criação de soluções backend eficientes.
+- C# & .NET: Desenvolvimento de aplicações robustas, escaláveis e focadas em alto desempenho.
 
 ## O que você vai encontrar aqui?
 
